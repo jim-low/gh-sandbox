@@ -2,7 +2,6 @@
 
 int main() {
 	int n = 10;
-	// this is coming from test_branch branch
 	for(int i = 0; i < n; i++){
 		printf("hello world\n");
 	}
