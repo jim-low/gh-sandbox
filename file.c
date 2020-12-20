@@ -2,7 +2,11 @@
 
 int main() {
 	int n = 10;
-	// this is coming from the master branch
+	// this comment is extremely important (or not lmao, jk...unless?)
+	
+	// this comment is totally unimportant
+	
+	// this is another sh!t
 	for(int i = 0; i < n; i++){
 		printf("hello world\n");
 	}
