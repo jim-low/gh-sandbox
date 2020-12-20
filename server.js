@@ -3,6 +3,6 @@ const rl = readline.createInterface({input: process.stdin, output: process.stdou
 
 rl.question("What's 9 + 10? ", (usrInput) => {
 	if(usrInput.trim() === "21") console.log("you stoopid");
-	else console.log("actually idk, lmao");
+	else console.log("honestly, i have no idea");
 	rl.close()
 })
