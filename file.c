@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// helo world, this comment is useless
+// helo world, this comment is completely useless
 
 int main() {
 	printf("you suck");
