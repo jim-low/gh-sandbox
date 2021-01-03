@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// helo world, this comment is undoubtedly useless
+// hello world from branch 'test'
 
 int main() {
 	printf("you suck");
