@@ -1,14 +1,13 @@
 #include <stdio.h>
-
-// keep me and the others lmao
-// keep me and the others lmao
-// keep me and the others lmao
-// keep me and the others lmao
-// keep me and the others lmao
-// keep me and the others lmao
+#include <stdlib.h>
 
 int main() {
-    printf("you suck");
+    int x;
+
+    printf("Enter a number: \n");
+    scanf("%d", &x);
+
+    printf("You entered %d!\n", x);
     return 0;
 }
 
