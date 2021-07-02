@@ -1,18 +1,14 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+void languageServerTest(int param1, char param2, char* param3) {
+    printf("param1 = %d\n", param1);
+    printf("param2 = %c\n", param2);
+    printf("param3 = %s\n", param3);
+}
+
 int main() {
-    int x;
-
-    printf("Enter a number: \n");
-    scanf("%d", &x);
-
-    printf("You entered %d!\n", x);
-    __ATOMIC_ACQUIREao
-    enumoe
-    __UQUAD_TYPEoeu
-    __ATOMIC_RELAXEDua
-    __OPENCL_MEMORY_SCOPE_SUB_GROUP
+    languageServerTest(69, 'A', "hello world");
     return 0;
 }
 
