@@ -9,11 +9,10 @@ int main() {
     printf("Enter a number: \n");
     scanf("%d", &y);
     printf("You entered %d!\n", x);
-    __ATOMIC_ACQUIREao
-    enumoe
-    __UQUAD_TYPEoeu
-    __ATOMIC_RELAXEDua
-    __OPENCL_MEMORY_SCOPE_SUB_GROUP
+
+    printf("Third change made by ziyu hiiiiiiiii");
+    printf("Fourth change made by ziyu hiiiiiiiii");
+    some change into here
     return 0;
 }
 
