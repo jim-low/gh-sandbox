@@ -2,11 +2,12 @@
 #include <stdlib.h>
 
 int main() {
-    int x;
+    int x,y;
 
     printf("Enter a number: \n");
     scanf("%d", &x);
-
+    printf("Enter a number: \n");
+    scanf("%d", &y);
     printf("You entered %d!\n", x);
     __ATOMIC_ACQUIREao
     enumoe
