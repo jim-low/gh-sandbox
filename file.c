@@ -12,7 +12,6 @@ int main() {
 
     printf("Third change made by ziyu hiiiiiiiii");
     printf("Fourth change made by ziyu hiiiiiiiii");
-    some change into here
     return 0;
 }
 
