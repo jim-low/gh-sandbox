@@ -13,7 +13,11 @@ int main() {
 
     printf("Third change made by ziyu hiiiiiiiii");
     printf("Fourth change made by ziyu hiiiiiiiii");
+
+    printf("This is feature 3");
+
     printf("This is feature 2 by me");
+
     return 0;
 }
 
