@@ -8,15 +8,8 @@ int main() {
     scanf("%d", &x);
     printf("Enter a number: \n");
     scanf("%d", &y);
-    printf("You entered %d!\n", x);
-    printf("This is feature 1");
 
-    printf("Third change made by ziyu hiiiiiiiii");
-    printf("Fourth change made by ziyu hiiiiiiiii");
-
-    printf("This is feature 3");
-
-    printf("This is feature 2 by me");
+    printf("You entered %d and %d!\n", x, y);
 
     return 0;
 }
